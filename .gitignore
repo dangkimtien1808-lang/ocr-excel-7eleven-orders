@@ -1,0 +1,63 @@
+
+# Sensitive/customer data
+data/
+images/
+output/
+backups/
+logs/
+excel/
+*.xlsx
+*.xls
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Environment/config secrets
+.env
+*.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python environment/cache
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sensitive/customer data
+data/
+images/
+output/
+backups/
+logs/
+excel/
+*.xlsx
+*.xls
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Environment/config secrets
+.env
+*.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tesseract language data - do not upload
+tools/tessdata/
+tools/tessdata_best/

@@ -1,0 +1,6 @@
+streamlit>=1.50
+pytesseract>=0.3.10
+opencv-python-headless>=4.8
+numpy>=1.26
+openpyxl>=3.1
+pandas>=2.0
